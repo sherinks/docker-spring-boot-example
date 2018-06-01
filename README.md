@@ -9,7 +9,7 @@ To run the application do the following
 Find the ip of the docker instance using
 docker inspect <docker-container-id>
 
-http://<docker-ip>:8080/dockerspringboot/users
+http://(docker-ip):8080/dockerspringboot/users
 
 This will print the users from the postgres database.
 
